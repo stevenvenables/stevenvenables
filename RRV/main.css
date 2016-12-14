@@ -1,0 +1,68 @@
+.navbar-transparent .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+.navbar-brand {
+	color: black;
+	font-family: "Sacramento";
+	font-size: 2em;
+}
+.nav .navbar-nav, li, a {
+	color: black;
+	font-family: "Sacramento";
+	font-size: 1.5em;
+}
+
+.title {
+	color: white;
+	font-family:"Sacramento";
+	font-size: 2.5em;
+}
+
+
+.jumbotron img {
+	background-color: white;
+	border-radius: 10%;
+}
+
+.highlights {
+	text-align: center;
+}
+/*-------------footer------------*/
+.copyright a {
+	color: black;
+	font-family: "sans serif";
+	font-size: 0.5em;
+
+}
+
+/*---------- About Page ---------------------*/
+
+.background {
+	
+	background-image: url("img/aboutbg.jpg");
+	
+	background-height: cover;
+	background-size: cover;
+}
+/*--------latest page-----*/
+.carousel-inner .item img{
+	width: 100%;
+	max-height:400px;
+	background-size: 5%;
+}
+
+.carousel-caption,p {
+	font-size: 1.5em;
+}
+
+
+/*---------------furniture----------------*/
+.item-head{
+	background-color: #e5e5e5;
+}
+.furniture-items img{
+	height: 50%;
+	width: 50%;
+
+}
